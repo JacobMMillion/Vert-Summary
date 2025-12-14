@@ -21,7 +21,7 @@ During my time at Vert, I served as the sole automation engineer, working closel
 ## Key Highlights
 
 - Built Flask web application with 50+ routes and features
-- Automated daily scraping of social media metrics across 100+ influencer accounts
+- Automated daily scraping of social media metrics across hundreds of influencer accounts
 - Developed AI-powered support automations
 - Created comprehensive analytics dashboards and business intelligence tools
 - Implemented role-based authentication and multi-user collaboration systems
