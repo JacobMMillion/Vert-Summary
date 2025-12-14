@@ -1,8 +1,8 @@
 # Vert - Job Description
 
-## Full-Stack Developer / Software Engineer | Vert
+## Lead Internal Automation Engineer | Vert
 
-**Built and maintained a comprehensive influencer marketing management platform** that automated data collection, analysis, and operations for multiple mobile applications. The system integrated social media scraping, database management, support automations, and business intelligence dashboards.
+**Built and maintained a comprehensive influencer marketing management platform** that automated data collection, analysis, and operations for multiple mobile applications. As a team of one, worked closely with the marketing department to identify automation opportunities and deliver solutions that streamlined influencer marketing operations. The system integrated social media scraping, database management, support automations, and business intelligence dashboards.
 
 ### Key Accomplishments:
 

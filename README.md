@@ -1,10 +1,10 @@
 # Vert - Job Summary
 
-This repository contains a summary of my work as a Full-Stack Developer at Vert, where I built and maintained a comprehensive influencer marketing management platform.
+This repository contains a summary of my work as Lead Internal Automation Engineer at Vert, where I built and maintained a comprehensive influencer marketing management platform.
 
 ## Overview
 
-During my time at Vert, I architected and developed a full-stack web application that automated data collection, analysis, and operations for multiple mobile applications. The platform integrated social media scraping, database management, support automations, and business intelligence dashboards to streamline influencer marketing operations.
+During my time at Vert, I served as the sole automation engineer, working closely with the marketing department to identify and implement automation solutions. I architected and developed a full-stack web application that automated data collection, analysis, and operations for multiple mobile applications. The platform integrated social media scraping, database management, support automations, and business intelligence dashboards to streamline influencer marketing operations.
 
 ## Contents
 
