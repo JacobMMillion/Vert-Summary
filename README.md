@@ -13,7 +13,7 @@ During my time at Vert, I serve as the sole automation engineer, working closely
 ## Technologies Used
 
 - **Backend:** Python, Flask, PostgreSQL
-- **APIs:** Apify, Google Sheets/Calendar/Gmail APIs, App Store Connect API, Stripe API, OpenAI API
+- **APIs:** Apify, Google Sheets/Calendar/Gmail APIs, App Store Connect API, OpenAI API
 - **Frontend:** HTML, CSS, JavaScript, Jinja2
 - **DevOps:** Heroku, Git
 - **Data Processing:** Concurrent processing, thread pools, pandas
